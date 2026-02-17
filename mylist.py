@@ -10,7 +10,7 @@ my_leeest = [[1,0,0,0],[0,1,0,0],[0,0,1,0],[0,0,0,1]]
 
 for i in my_leeest:
     l1.value(i[0])
-    l1.value(i[1])
-    l1.value(i[2])
-    l1.value(i[3])
-    time.sleep(0.2)#Create any list
+    l2.value(i[1])
+    l3.value(i[2])
+    l4.value(i[3])
+    time.sleep(0.2)
